@@ -1,0 +1,115 @@
+{
+    "countrieList":
+    [
+        {
+            "Country": "United States of America",
+            "Population": "Approximately 331 million",
+            "GDP": "Around $22 trillion",
+            "Language": "English",
+            "Currency": "United States Dollar (USD)",
+            "Average temperature": "Varies significantly by region, ranging from subarctic to tropical",
+            "Capital": "Washington, D.C.",
+            "Most common religion": "Christianity",
+            "Government": "Federal presidential constitutional republic",
+            "Area": "Approximately 9.8 million square kilometers",
+            "Major-industries": ["Technology", "Finance", "Healthcare", "Entertainment", "Manufacturing"],
+            "Literacy-rate": "Over 99%",
+            "Life-expectancy": "Around 79 years",
+            "National-dish": "Hamburger",
+            "Flag":"\"url('images/us.svg')\""
+          },    
+          {  
+
+            "Country": "Australia",
+            "Population": "Approximately 25 million",
+            "GDP": "Around $1.4 trillion",
+            "Language": "English",
+            "Currency": "Australian Dollar (AUD)",
+            "Average temperature": "Varies significantly by region, ranging from temperate to arid",
+            "Capital": "Canberra",
+            "Most common religion": "Christianity",
+            "Government": "Federal parliamentary democracy and constitutional monarchy",
+            "Area": "Approximately 7.7 million square kilometers",
+            "Major-industries": ["Mining", "Agriculture", "Tourism", "Manufacturing"],
+            "Literacy-rate": "Over 99%",
+            "Life-expectancy": "Around 83 years",
+            "National-dish": "Meat pie",
+            "Flag":"\"url('images/au.svg')\""
+          },
+          {
+            "Country": "Japan",
+            "Population": "Approximately 126 million",
+            "GDP": "Around $5 trillion",
+            "Language": "Japanese",
+            "Currency": "Japanese Yen (JPY)",
+            "Average temperature": "Varies from cool temperate in the north to subtropical in the south",
+            "Capital": "Tokyo",
+            "Most common religion": "Shinto and Buddhism",
+            "Government": "Constitutional monarchy with a parliamentary government",
+            "Area": "Approximately 377,975 square kilometers",
+            "Major-industries": ["Automotive", "Electronics", "Robotics", "Textile"],
+            "Literacy-rate": "Over 99%",
+            "Life-expectancy": "Around 84 years",
+            "National-dish": "Sushi",
+            "Flag":"\"url('images/jp.svg')\""
+
+
+          },
+          {
+            "Country": "United Kingdom",
+            "Population": "Approximately 68 million",
+            "GDP": "Around $3 trillion",
+            "Language": "English",
+            "Currency": "British Pound Sterling (GBP)",
+            "Average temperature": "Temperate maritime climate",
+            "Capital": "London",
+            "Most common religion": "Christianity",
+            "Government": "Unitary parliamentary constitutional monarchy",
+            "Area": "Approximately 243,610 square kilometers",
+            "Major-industries": ["Finance", "Automotive", "Aerospace", "Pharmaceutical"],
+            "Literacy-rate": "Over 99%",
+            "Life-expectancy": "Around 81 years",
+            "National-dish": "Fish and Chips",
+            "Flag":"\"url('images/sh.svg')\""
+          },
+          {
+            "Country": "Canada",
+            "Population": "Approximately 38 million",
+            "GDP": "Around $1.7 trillion",
+            "Language": "English and French",
+            "Currency": "Canadian Dollar (CAD)",
+            "Average temperature": "Varies widely, subarctic to humid continental",
+            "Capital": "Ottawa",
+            "Most common religion": "Christianity",
+            "Government": "Federal parliamentary democracy and constitutional monarchy",
+            "Area": "Approximately 9.98 million square kilometers",
+            "Major-industries": ["Energy", "Mining", "Forestry", "Automotive"],
+            "Literacy-rate": "Over 99%",
+            "Life-expectancy": "Around 82 years",
+            "National-dish": "Poutine",
+            "Flag":"\"url('images/ca.svg')\""
+          },
+          {
+            "Country": "South Africa",
+            "Population": "Approximately 60 million",
+            "GDP": "Around $350 billion",
+            "Language": "11 official languages including English and Afrikaans",
+            "Currency": "South African Rand (ZAR)",
+            "Average temperature": "Mostly semi-arid, subtropical along east coast",
+            "Capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+            "Most common religion": "Christianity",
+            "Government": "Parliamentary republic",
+            "Area": "Approximately 1.22 million square kilometers",
+            "Major-industries": ["Mining", "Automotive", "Machinery", "Textiles"],
+            "Literacy-rate": "Around 94%",
+            "Life-expectancy": "Around 64 years",
+            "National-dish": "Bobotie",
+            "Flag":"\"url('images/za.svg')\""
+  
+          }
+
+
+    ]
+}
+
+          

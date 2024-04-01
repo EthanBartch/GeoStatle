@@ -1,0 +1,145 @@
+*{
+
+
+}
+
+body{
+
+margin: 0;
+height: 100%;
+
+
+}
+
+/*______________________________________________________________________________________________________ */
+
+.header{
+    display: flex;
+    outline: solid;
+    height: 7%;
+    
+
+}
+
+.title{
+    outline: solid;
+}
+
+.logo{
+    outline: solid;
+}
+
+/* _______________________________________________________________________________________________________*/
+
+.main-game{
+
+    height: 86%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly ;
+    align-items: center;
+}
+
+.modal{
+    outline: solid;
+}
+
+.userInput{
+    outline: solid;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    width: 80dvh;
+}
+
+.textBoxInput{
+    height: 100%;
+}
+
+.submitButton{
+    cursor:pointer;
+
+}
+
+
+
+.flag{
+    
+ padding: 0;
+ margin: 0;
+ height: 32.45%;
+ width: 39dvh;
+ border: solid;
+ display: flex;
+ background-image: url(images/xx.svg);
+ background-size: auto;
+ 
+ background-repeat: no-repeat;
+ justify-content: center;
+ background-position: center;
+ 
+
+
+}
+.image{
+
+    object-fit: scale-down;
+    height: 10px;
+    max-width: 100%;
+    
+}
+
+.statistics{
+    display: flex;
+    outline: solid;
+    height: 40%;
+    width: 60%;
+    flex-direction: column;   
+    justify-content: space-around; 
+    align-items: center;
+    min-width: fit-content;
+}
+
+.Fact-container{
+    display: flex;
+    justify-content: center;
+    outline: solid;
+    height: 15%;
+    width: 80%;
+    min-width: fit-content ;
+    min-height: fit-content;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+
+
+   
+}
+.Fact-container > p {
+
+
+   
+}
+.autoComplete_wrapper{
+    width: 60%;
+}
+
+
+/*________________________________________________________________________________________________________ */
+
+.footer{
+    height: 7%;
+}
+
+
+
+/*________________________________________________________________________________________________________ */
+.total-content{
+    display: flex;
+    outline: solid red;
+    flex-direction: column;
+    height: 105dvh;
+
+
+
+}
